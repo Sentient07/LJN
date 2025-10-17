@@ -1,0 +1,16 @@
+numpy
+scipy
+torch
+trimesh
+igl
+meshplot
+potpourri3d
+robust-laplacian
+cholespy
+torch-sparse
+scikit-learn
+matplotlib
+pytorch3d
+torch-scatter
+point-cloud-utils
+tqdm

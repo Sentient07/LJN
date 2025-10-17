@@ -1,0 +1,30 @@
+# DATA_PATHS.py
+
+# Please update these paths to point to the datasets on your local machine.
+
+# FAUST Original (re-meshed)
+faust_o_obj = "/path/to/your/faust/original/obj"
+
+# FAUST Remeshed
+faust_r_obj = "/path/to/your/faust/remeshed/obj"
+faust_r_corr = "/path/to/your/faust/remeshed/correspondences"
+
+# SURREAL
+surreal_o_obj = "/path/to/your/surreal/obj"
+# surreal_val_obj = "/path/to/your/surreal/validation/obj" # Optional validation set
+
+# SCAPE Remeshed
+scape_r_obj = "/path/to/your/scape/remeshed/obj"
+scape_r_corr = "/path/to/your/scape/remeshed/correspondences"
+
+# SCAPE Original
+scape_o_obj = "/path/to/your/scape/original/obj"
+
+# SHREC'19 Remeshed
+shrec19_r_obj = "/path/to/your/shrec19/remeshed/obj"
+shrec19_r_corr = "/path/to/your/shrec19/remeshed/correspondences"
+shrec19_names = [] # Add names if needed for training
+
+# DeformingThings4D Remeshed (Hierarchical)
+dt4dh_obj = "/path/to/your/dt4d/hierarchical/obj"
+dt4d_r_corr = "/path/to/your/dt4d/remeshed/correspondences"
